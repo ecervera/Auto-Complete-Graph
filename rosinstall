@@ -18,7 +18,7 @@ repositories:
   occupancy_grid_utils:
     type: git
     url: https://github.com/clearpathrobotics/occupancy_grid_utils.git
-    version: indigo-devel    # noetic-devel
+    version: noetic-devel
   octomap:
     type: git
     url: https://github.com/OctoMap/octomap.git
